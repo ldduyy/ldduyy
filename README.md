@@ -47,7 +47,6 @@ I am a Bachelor of International Economics graduate from Foreign Trade Universit
 
 ### 🚀 Projects
 - **[A/B Testing Analysis]**: Evaluated ad campaign effectiveness using Python and statistical hypothesis testing to optimize conversion rates.
-- **[Churn Prediction]**: Built a churn forecasting and revenue analysis model using Python for customer retention strategy.
 
 ---
 
