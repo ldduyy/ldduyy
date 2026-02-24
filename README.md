@@ -10,7 +10,7 @@ I am a Bachelor of International Economics graduate from Foreign Trade Universit
 
 📈 **I'm an International Economist turned Data Scientist.** With a solid foundation in quantitative analysis and economic theory from Foreign Trade University (FTU), I specialize in bridging the gap between complex data and strategic business decisions. Having worked across banking (VPBank) and tech software (TOHSOFT), I bring a multidisciplinary perspective to every data project.
 
-🎓 **I hold a Bachelor’s degree in International Economics from Foreign Trade University (GPA: 3.51/4.0).** My academic journey was defined by a deep dive into Econometrics and Mathematical Statistics, leading to a First Prize in Student Scientific Research and the prestigious Science and Technology Award from the Ministry of Education and Training (2023).
+🎓 **I hold a Bachelor’s degree in International Economics from Foreign Trade University.** My academic journey was defined by a deep dive into Econometrics and Mathematical Statistics, leading to a First Prize in Student Scientific Research and the prestigious Science and Technology Award from the Ministry of Education and Training (2023).
 
 🔭 **I am a published researcher and an active contributor to the academic field.** My work on Corporate Social Responsibility (CSR) and Foreign Direct Investment (FDI) has been featured in the *Asian Journal of Economics and Business* and the *Journal of Economy & Forecast*. 
 
