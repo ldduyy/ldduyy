@@ -1,4 +1,4 @@
-# Hi there, I'm Lê Đức Duy 👋 (ldduyy)
+# Hi there, I'm Le Duc Duy 👋 (ldduyy)
 
 ### Data Scientist Aspirant | Economics & Quantitative Research Enthusiast
 
@@ -48,13 +48,6 @@ I am a Bachelor of International Economics graduate from Foreign Trade Universit
 ### 🚀 Projects
 - **[A/B Testing Analysis]**: Evaluated ad campaign effectiveness using Python and statistical hypothesis testing to optimize conversion rates.
 - **[Churn Prediction]**: Built a churn forecasting and revenue analysis model using Python for customer retention strategy.
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ldduyy&show_icons=true&theme=tokyonight" alt="ldduyy's GitHub stats" />
-</p>
 
 ---
 
