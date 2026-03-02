@@ -1,11 +1,5 @@
 # Hi there, I'm Le Duc Duy 👋 (ldduyy)
 
-### Data Scientist Aspirant | Economics & Quantitative Research Enthusiast
-
-I am a Bachelor of International Economics graduate from Foreign Trade University with a strong passion for data-driven storytelling and predictive modeling. My journey bridges the gap between economic theory and technical implementation, aiming to become a **Data Scientist** focused on Machine Learning and AI to drive business optimization and automated decision-making.
-
----
-
 ### 💫 About Me
 
 📈 **I'm an International Economist turned Data Scientist.** With a solid foundation in quantitative analysis and economic theory from Foreign Trade University (FTU), I specialize in bridging the gap between complex data and strategic business decisions. Having worked across banking (VPBank) and tech software (TOHSOFT), I bring a multidisciplinary perspective to every data project.
