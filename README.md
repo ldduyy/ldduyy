@@ -46,6 +46,8 @@ I am a Bachelor of International Economics graduate from Foreign Trade Universit
 ---
 
 ### 🚀 Projects
+- **[Bank Customer Churn & Financial Risk Analysis (SQL)]**: Analyzed a 10K-customer banking dataset using PostgreSQL to identify churn drivers and quantify balance loss. Detected high-risk segments (Germany, 3+ product holders, high-balance inactive clients) and highlighted disproportionate asset outflow from churned customers.
+- **[Credit Risk Analysis & Portfolio Monitoring]**: Analyzed loan portfolio data using SQL and Power BI to evaluate NPL and concentration risk. Identified high-risk segments by FICO, interest rate, and loan purpose, and built a dashboard tracking Exposure and Default Rate to support underwriting and risk-based pricing decisions.
 - **[A/B Testing Analysis]**: Evaluated ad campaign effectiveness using Python and statistical hypothesis testing to optimize conversion rates.
 
 ---
